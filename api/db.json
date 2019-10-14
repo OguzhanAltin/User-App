@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "Oğuzhan",
+      "salary": "6000",
+      "department": "Software Developer",
+      "id": "unique-1"
+    },
+    {
+      "name": "Güzide",
+      "salary": "5000",
+      "department": "Public Relations",
+      "id": "unique-2"
+    },
+    {
+      "name": "Tuğba",
+      "salary": "4500",
+      "department": "Swimming Coach",
+      "id": "unique-3"
+    },
+    {
+      "name": "Lütfü",
+      "salary": "10000",
+      "department": "Electronics Engineer",
+      "id": "suPGD7P"
+    }
+  ]
+}
